@@ -1,0 +1,17 @@
+.section{
+    
+    text-align: center;
+    flex-wrap: wrap;
+    &__h2{
+        padding: 20px;
+    }
+
+    &__card{
+        margin: 10px;
+        padding: 30px;
+        max-width: 200px;
+        background-color: rgb(234, 234, 234);
+        border-radius: 20px;
+    
+    }
+}
